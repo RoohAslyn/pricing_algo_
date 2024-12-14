@@ -28,7 +28,7 @@ Price should be lowest competitive price
 
 ## Installation
 -Navigate to the project directory in your terminal:
-     -cd pricing_demo
+     cd pricing_demo
 
 -Run the server: python manage.py runserver 
 
