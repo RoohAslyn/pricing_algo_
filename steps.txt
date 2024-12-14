@@ -5,4 +5,4 @@ Run the server: python manage.py runserver
 
 Visit the following endpoint in your browser: http://127.0.0.1:8000/api/adjust-prices/
      
-     blah blah blah 
+    
