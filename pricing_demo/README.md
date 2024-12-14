@@ -5,17 +5,17 @@ A brief description of your project.
 ## Features
 Building an ML Pricing Algorithm in Python/Django like this:
 
-# Part 1 - Find lowest local price
+## Part 1 - Find lowest local price
 1. Get the name, address, open/close times, menu items, and prices for Village restaurant:   https://www.yelp.com/biz/village-the-soul-of-india-hicksville
 2. Find top-rated 5 restaurants within 2 km serving similar items on their menu (using Yelp or Google Maps.)
 3. List their menu items and prices
 4. Find the lowest price of each item that Village restaurant could set based on that.
 
-#  Part 2 - Adjust prices in busy times and bad weather
+##  Part 2 - Adjust prices in busy times and bad weather
 5. Get Village busy times from GMaps:  https://maps.app.goo.gl/AbLBny2kZBek65Xm7
 6. Get the current temperature and rain near Village using:  https://openweathermap.org/current
 
-# Show the Village menu with the final predicted prices for each item using any ML algorithm as follows:
+### Show the Village menu with the final predicted prices for each item using any ML algorithm as follows:
 
 -- IF
 7.1 The temperature is below 45 degrees Fahrenheit (note that the API returns data in Kelvin, so you will have to convert)
